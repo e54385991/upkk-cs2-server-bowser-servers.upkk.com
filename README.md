@@ -9,7 +9,7 @@ Our query servers are located in the **United States** and **Hong Kong**.
 
 Please confirm that your server or network does not block or restrict access to these regions or their associated IP addresses. If you encounter connection issues, it may be due to regional restrictions or firewall settings on your end.
 
-**中文版本**
+
 
 我们的查询服务器位于**美国**和**香港**。
 
