@@ -17,3 +17,5 @@ Please confirm that your server or network does not block or restrict access to 
 
 ---
 
+
+[![Server Status](https://servers.upkk.com/widget/image?server=cs2ze.upkk.com:27015&style=dark&format=webp&transparent=false&color=%23181818&width=560)](https://servers.upkk.com/server/cs2ze.upkk.com:27015)
