@@ -15,6 +15,12 @@ Please confirm that your server or network does not block or restrict access to 
 
 请确认您的服务器或网络没有屏蔽或限制对这些地区及其相关 IP 地址的访问。如果您遇到无法添加服务器问题，可能是由于您所在网络的区域限制或防火墙设置导致。
 
+**Query Node Server IP Address**  
+To get the IP address of the query node server, please join our Discord and contact the administrator.
+
+**查询节点服务器 IP 地址**  
+有关查询节点服务器的 IP 地址，请加入我们的 Discord 并联系管理员获取。
+
 ---
 
 
