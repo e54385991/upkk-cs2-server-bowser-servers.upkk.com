@@ -24,11 +24,22 @@ To get the IP address of the query node server, please join our Discord and cont
 ---
 
 
-## Regarding the blocking of the Russia region (RU):  
-По поводу блокировки региона Россия (RU):  
-关于俄罗斯（RU）地区的封锁：Из-за большого количества ложной информации в российском регионе, такой как ложные данные о количестве игроков в A2S, поддельные названия серверов и другие недостоверные сведения, мы приняли трудное решение заблокировать этот регион по умолчанию.  
-由于俄罗斯地区服务器存在大量虚假信息，例如关于 A2S 玩家数量的虚假数据、伪造的服务器名称以及其他不实信息，我们不得不做出艰难的决定，将该地区默认屏蔽。Мы понимаем, что это может привести к ошибочной блокировке нормальных серверов, и искренне приносим извинения за возможные неудобства.
-我们理解这可能导致正常服务器被误封，并对可能造成的不便深表歉意。
-Если ваш сервер пострадал, вы можете связаться с нами через Discord для добавления в белый список.
-如果您的服务器受到影响，您可以通过 Discord 联系我们以将其加入白名单。
+### Russia Region (RU) Blocking Notice  
+**俄罗斯地区（RU）屏蔽通知**  
+**Уведомление о блокировке региона Россия (RU)**
 
+Due to widespread false data (fake A2S player counts, forged server names, etc.) from many servers in the RU region, we have **disabled this region by default** to protect data accuracy.
+
+由于俄罗斯地区大量服务器存在虚假数据（A2S 玩家数造假、服务器名称伪造等），为保障数据真实性，我们**默认屏蔽了该地区**。
+
+We sincerely apologize for any inconvenience this may cause to legitimate server owners.  
+我们对可能给正常服务器带来的不便深表歉意。  
+Приносим искренние извинения за возможные неудобства владельцам честных серверов.
+
+**Affected legitimate servers can be whitelisted.**  
+**正常服务器可申请加入白名单。**  
+**Легитимные серверы могут быть добавлены в белый список.**
+
+→ Join our Discord and contact an administrator to request whitelisting.  
+→ 请加入我们的 Discord 联系管理员申请白名单。  
+→ Присоединяйтесь к нашему Discord и свяжитесь с администратором для добавления в белый список.
